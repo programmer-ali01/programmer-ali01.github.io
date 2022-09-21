@@ -1,0 +1,104 @@
+{
+  "headline": {
+    "myName": "Alisena Mudaber",
+    "address": "London",
+    "phone": "07736148654",
+    "email": "alisenamudaber@gmail.com",
+    "github": " https://github.com/programmer-ali01"
+  },
+  "summary": "A self-taught programmer and an enthusiast of the iOS ecosystem. Through self-teaching, I have gained knowledge of iOS programming, and I am able to build iOS applications fully programmatically. Furthermore, I understand design patterns, and agile methodologies. Currently, I am pursuing a career as an iOS developer and I am eager to secure a role within a suitable team.",
+  "projects": {
+    "foodie": {
+      "name": "Foodie",
+      "description": "A food ordering app, similar to UberEATS. Programmatic and custom views. MVVM design pattern.",
+      "link": "https://github.com/programmer-ali01/Foodie"
+    },
+    "social": {
+      "name": "Social-media-app",
+      "description": "Fully programmatic views. MVVM design pattern. The app networks with Firebase to register users, login users, send and retrieve posts.",
+      "link": "https://github.com/programmer-ali01/social-media-app-ios"
+    },
+    "github": {
+      "name": "Github-jobs",
+      "description": "Simple job searching app with the GitHub jobs API. MVC design pattern. Fully programmatic views. Users are able to search jobs, view job descriptions and visit the company’s website.",
+      "link": "https://github.com/programmer-ali01/Github-jobs-iOS"
+    },
+    "countries": {
+      "name": "search-conntries",
+      "description": "Used an API to create an iOS app for users to search any country to look up facts about that country. Fully programmatic views and uses the MVVM design pattern.",
+      "link": " https://github.com/programmer-ali01/search-countries"
+    }
+  },
+  "skills": [
+    "Swift 5",
+    "XCode IDE",
+    "UIKit",
+    "Storyboards/nibs",
+    "Programmatic-UI",
+    "Core Data",
+    "SwiftUI",
+    "Git & GitHub",
+    "MVC & MVMM",
+    "SOLID Principles",
+    "React.js",
+    "Firebase",
+    "RESTful APIs"
+  ],
+  "softSkills": [
+    "Collaboration & teamwork",
+    "Great communication",
+    "Customer service",
+    "organisational skills"
+  ],
+  "education": {
+    "computing": {
+      "date": "10/2019 - CURRENT",
+      "subject": "BSC COMPUTING",
+      "place": "Birkbeck, University of London",
+      "description": "Currently starting 3rd year of a 4-year programme in October. \nClasses are in the evenings (6pm – 9m)."
+    },
+    "business": {
+      "date": "9/2013 - 6/2016",
+      "subject": "BA INTERNATIONAL BUSINESSS MANAGEMENT",
+      "place": "University of West London",
+      "description": "2:1 Honours degree."
+    }
+  },
+  "experience": {
+    "Ocado": {
+      "date": "PRESENT",
+      "role": "Warehouse Member",
+      "company": "Ocado Zoom",
+      "description": [
+        "Work on different sections of the warehouse",
+        "Complete specific tasks each day",
+        "Collaborating with team members",
+        "Manage inventory",
+        "Complete tasks in an efficient and timely manner"
+      ],
+      "Asda": {
+        "date": "3/2018 – 3/2019",
+        "role": "Shop Floor Assistant",
+        "company": "ASDA",
+        "description": [
+          "Assisted customers with their queries",
+          "Stocked shelves",
+          "Organised items",
+          "Maximised sales",
+          "Operated on the tills",
+          "Handled payments"
+        ],
+        "Doogheno": {
+          "date": "6/2017 – 12/2017",
+          "role": "Digital Marketing Intern",
+          "company": "DOOGHENO",
+          "description": [
+            "Worked on targeted email lists ",
+            "Worked on marketing campaigns",
+            "Received training in Google Analytics & WordPress."
+          ]
+        }
+      }
+    }
+  }
+}
