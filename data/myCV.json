@@ -7,28 +7,28 @@
     "github": " https://github.com/programmer-ali01"
   },
   "summary": "A self-taught programmer and an enthusiast of the iOS ecosystem. Through self-teaching, I have gained knowledge of iOS programming, and I am able to build iOS applications fully programmatically. Furthermore, I understand design patterns, and agile methodologies. Currently, I am pursuing a career as an iOS developer and I am eager to secure a role within a suitable team.",
-  "projects": {
-    "foodie": {
+  "projects": [
+    {
       "name": "Foodie",
       "description": "A food ordering app, similar to UberEATS. Programmatic and custom views. MVVM design pattern.",
       "link": "https://github.com/programmer-ali01/Foodie"
     },
-    "social": {
+    {
       "name": "Social-media-app",
       "description": "Fully programmatic views. MVVM design pattern. The app networks with Firebase to register users, login users, send and retrieve posts.",
       "link": "https://github.com/programmer-ali01/social-media-app-ios"
     },
-    "github": {
+    {
       "name": "Github-jobs",
       "description": "Simple job searching app with the GitHub jobs API. MVC design pattern. Fully programmatic views. Users are able to search jobs, view job descriptions and visit the company’s website.",
       "link": "https://github.com/programmer-ali01/Github-jobs-iOS"
     },
-    "countries": {
+    {
       "name": "search-conntries",
       "description": "Used an API to create an iOS app for users to search any country to look up facts about that country. Fully programmatic views and uses the MVVM design pattern.",
       "link": " https://github.com/programmer-ali01/search-countries"
     }
-  },
+  ],
   "skills": [
     "Swift 5",
     "XCode IDE",
