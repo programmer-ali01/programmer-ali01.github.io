@@ -50,22 +50,22 @@
     "Customer service",
     "organisational skills"
   ],
-  "education": {
-    "computing": {
+  "education": [
+    {
       "date": "10/2019 - CURRENT",
       "subject": "BSC COMPUTING",
       "place": "Birkbeck, University of London",
       "description": "Currently starting 3rd year of a 4-year programme in October. \nClasses are in the evenings (6pm – 9m)."
     },
-    "business": {
+    {
       "date": "9/2013 - 6/2016",
       "subject": "BA INTERNATIONAL BUSINESSS MANAGEMENT",
       "place": "University of West London",
       "description": "2:1 Honours degree."
     }
-  },
-  "experience": {
-    "Ocado": {
+  ],
+  "experience": [
+    {
       "date": "PRESENT",
       "role": "Warehouse Member",
       "company": "Ocado Zoom",
@@ -75,30 +75,30 @@
         "Collaborating with team members",
         "Manage inventory",
         "Complete tasks in an efficient and timely manner"
-      ],
-      "Asda": {
-        "date": "3/2018 – 3/2019",
-        "role": "Shop Floor Assistant",
-        "company": "ASDA",
-        "description": [
-          "Assisted customers with their queries",
-          "Stocked shelves",
-          "Organised items",
-          "Maximised sales",
-          "Operated on the tills",
-          "Handled payments"
-        ],
-        "Doogheno": {
-          "date": "6/2017 – 12/2017",
-          "role": "Digital Marketing Intern",
-          "company": "DOOGHENO",
-          "description": [
-            "Worked on targeted email lists ",
-            "Worked on marketing campaigns",
-            "Received training in Google Analytics & WordPress."
-          ]
-        }
-      }
+      ]
+    },
+    {
+      "date": "3/2018 – 3/2019",
+      "role": "Shop Floor Assistant",
+      "company": "ASDA",
+      "description": [
+        "Assisted customers with their queries",
+        "Stocked shelves",
+        "Organised items",
+        "Maximised sales",
+        "Operated on the tills",
+        "Handled payments"
+      ]
+    },
+    {
+      "date": "6/2017 – 12/2017",
+      "role": "Digital Marketing Intern",
+      "company": "DOOGHENO",
+      "description": [
+        "Worked on targeted email lists ",
+        "Worked on marketing campaigns",
+        "Received training in Google Analytics & WordPress."
+      ]
     }
-  }
+  ]
 }
