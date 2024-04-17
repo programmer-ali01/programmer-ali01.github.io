@@ -1,0 +1,29 @@
+{
+  "income_data": [
+    {
+      "date": "2024-04-01",
+      "earnings": 120.50,
+      "trip_count": 10
+    },
+    {
+      "date": "2024-04-02",
+      "earnings": 135.75,
+      "trip_count": 12
+    },
+    {
+      "date": "2024-04-03",
+      "earnings": 142.20,
+      "trip_count": 11
+    },
+    {
+      "date": "2024-04-04",
+      "earnings": 130.80,
+      "trip_count": 13
+    },
+    {
+      "date": "2024-04-05",
+      "earnings": 125.60,
+      "trip_count": 9
+    }
+  ]
+}
