@@ -1,1 +1,30 @@
 
+{
+  "earnings": [
+    {
+      "date": "2024-04-01",
+      "earnings": 85.50,
+      "jobCount": 12
+    },
+    {
+      "date": "2024-04-02",
+      "earnings": 92.75,
+      "jobCount": 15
+    },
+    {
+      "date": "2024-04-03",
+      "earnings": 78.20,
+      "jobCount": 10
+    },
+    {
+      "date": "2024-04-04",
+      "earnings": 103.45,
+      "jobCount": 18
+    },
+    {
+      "date": "2024-04-05",
+      "earnings": 97.80,
+      "jobCount": 16
+    }
+  ]
+}
